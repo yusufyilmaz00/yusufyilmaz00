@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **yusufyyilmaz0@gmail.com**
-
 - 💬 Ask me about **Python** and **we learn together 💪**
 
 - 📫 How to reach me **yusufyyilmaz0@gmail.com**
