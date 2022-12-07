@@ -6,13 +6,11 @@
 <h2 align="left">About Me</h2> <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="330" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
-- 🔭 I’m currently working on **Python - Data Science**
+- 🌱 I’m currently learning & working on **Python**
 
-- 🌱 I’m currently learning **Python**
+- 💬 Ask me about **anything** and **we learn together 💪**
 
-- 💬 Ask me about **Python** and **we learn together 💪**
-
-- 📫 How to reach me **yusufyyilmaz0@gmail.com**
+- 📫 You can reach me on **yusufyyilmaz0@gmail.com**
 
 - ⚡ Fun fact **you cannot touch your elbow with your tongue 😜**
 
